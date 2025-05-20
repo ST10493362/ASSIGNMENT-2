@@ -19,11 +19,11 @@
 
     <Button
         android:id="@+id/btnReview"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="193dp"
+        android:layout_height="67dp"
         android:layout_marginStart="114dp"
         android:layout_marginBottom="81dp"
-        android:text="Button"
+        android:text="rEVIEW"
         app:layout_constraintBottom_toTopOf="@+id/btnExit"
         app:layout_constraintStart_toStartOf="parent" />
 
